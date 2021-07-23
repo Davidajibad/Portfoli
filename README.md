@@ -1,2 +1,2 @@
 # Portfoli
-This site entails information about me and what I'm about
+This site gives a scope of who I am and what I'm about.
